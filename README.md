@@ -23,6 +23,6 @@ My developer philosophy **LEARN MORE**, **DO MORE** and **SHARE MORE**!
 
 💬 Ask me about [Istio](https://istio.io), [Knative](https://knative.dev), [Tektoncd](https://tekton.dev/)
 
-🌱 I’m currently learning (golang)[https://go.dev/]
+🌱 I’m currently learning [golang](https://go.dev/)
  
 😄 He/Him/His
