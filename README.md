@@ -25,6 +25,8 @@ My developer philosophy **LEARN MORE**, **DO MORE** and **SHARE MORE**!
 
 🌱 I’m currently learning [golang](https://go.dev/) and [rust](https://rust-lang.org)
 
-Blogs --> https://blogs.kameshs.dev
+Blogs 
+- https://blogs.kameshs.dev
+- https://dev.to/kameshsampath
  
 😄 He/Him/His
