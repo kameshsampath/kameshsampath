@@ -17,7 +17,15 @@ Here are some ideas to get you started:
 
 🔭 An Author, Consultant, Developer Advocate and  [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-kamesh-sampath)(Modern Architecures). As part of my role I actively educate developers on Kubernetes/OpenShift, Servicemesh, and Serverless technologies. With a career spanning close to two decades, most of my career was with services industry helping various enterprise customers build Java-based solutions.
 
-👯 I am a contributor to Open Source projects for more than a decade and contributed/contributing to projects like [Drone](https://github.com/harness/drone), [Drone CLI](https://github.com/harness/drone-cli), [Drone Plugins](https://github.com/drone/drone-plugin-index) [Tektoncd](https://tekton.dev/), [Knative](https://knative.dev), [Minikube](https://minikube.sigs.k8s.io/docs/),[Apache Camel-K](https://camel.apache.org/camel-k/1.7.x/index.html) etc., 
+👯 I am a contributor to Open Source projects for more than a decade and contributed/contributing to projects 
+ - [k3d](https://k3d.io)
+ - [Drone](https://github.com/harness/drone)
+ - [Drone CLI](https://github.com/harness/drone-cli)
+ - [Drone Plugins](https://github.com/drone/drone-plugin-index) 
+ - [Tektoncd](https://tekton.dev/), [Knative](https://knative.dev)
+ - [Minikube](https://minikube.sigs.k8s.io/docs/)
+ - [Apache Camel-K](https://camel.apache.org/camel-k/1.7.x/index.html)
+ - [Wolfi OS](https://github.com/wolfi-dev/os)
 
 My developer philosophy **LEARN MORE**, **DO MORE** and **SHARE MORE**!
 
