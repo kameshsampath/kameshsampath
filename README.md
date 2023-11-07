@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 My developer philosophy **LEARN MORE**, **DO MORE** and **SHARE MORE**!
 
-💬 Ask me about [Drone CI](https://drone.io),[Harness CD](https://harness.io/products/continuous-delivery/), [Harness CI](https://harness.io/products/continuous-integration/), [Argo CD](https://argo-cd.readthedocs.io/en/stable/), [Istio](https://istio.io), [Knative](https://knative.dev), [Tektoncd](https://tekton.dev/), Google Cloud
+💬 Ask me about [Argo CD](https://argo-cd.readthedocs.io/en/stable/), [Istio](https://istio.io), [Knative](https://knative.dev), [Tektoncd](https://tekton.dev/), Google Cloud
 
 🌱 I’m currently learning [golang](https://go.dev/) and [rust](https://rust-lang.org)
 
