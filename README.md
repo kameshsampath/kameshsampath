@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 An Author, Consultant, Developer Advocate and  [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-kamesh-sampath)(Modern Architecures). As part of my role I actively educate developers on Kubernetes/OpenShift, Servicemesh, and Serverless technologies. With a career spanning close to two decades, most of my career was with services industry helping various enterprise customers build Java-based solutions.
+🔭 A developer advocate who loves to share his learning, tips and tricks with his fellow developer community, empowering them to be more successful. As part of my role I actively educate developers on data cloud technologies. With a career spanning close to two decades, most of my career was with services industry helping various enterprise customers build Java-based solutions.
 
 👯 I am a contributor to Open Source projects for more than a decade and contributed/contributing to projects 
  - [k3d](https://k3d.io)
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 My developer philosophy **LEARN MORE**, **DO MORE** and **SHARE MORE**!
 
-💬 Ask me about [Argo CD](https://argo-cd.readthedocs.io/en/stable/), [Istio](https://istio.io), [Knative](https://knative.dev), [Tektoncd](https://tekton.dev/), Google Cloud
+💬 Ask me about [Argo CD](https://argo-cd.readthedocs.io/en/stable/), [Istio](https://istio.io), [Knative](https://knative.dev),[Snowflake](https://snowflake.com), [Tektoncd](https://tekton.dev/), Google Cloud
 
 🌱 I’m currently learning [golang](https://go.dev/) and [rust](https://rust-lang.org)
 
