@@ -28,7 +28,7 @@ My developer philosophy **LEARN MORE**, **DO MORE** and **SHARE MORE**!
 
 💬 Ask me about [Argo CD](https://argo-cd.readthedocs.io/en/stable/), [Istio](https://istio.io), [Knative](https://knative.dev), [Snowflake](https://snowflake.com), [Tektoncd](https://tekton.dev/)
 
-🌱 I’m currently learning and improving on  [golang](https://go.dev/), [python](https://python.org/), [rust](https://rust-lang.org and 
+🌱 I’m continuously learning and improving on [golang](https://go.dev/) and [python](https://python.org/) 
 
 Blogs 
 - https://blogs.kameshs.dev
