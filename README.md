@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 A developer advocate who loves to share his learning, tips and tricks with his fellow developer community, empowering them to be more successful. As part of my role I actively educate developers on data cloud technologies. With a career spanning close to two decades, most of my career was with services industry helping various enterprise customers build Java-based solutions.
+🔭 Veteran tech innovator with over 20 years in the trenches. As an author and developer advocate, I'm on a mission to demystify data and cloud technologies. My passion? Empowering developers to push boundaries and create the impossible. With a track record of crafting enterprise solutions across diverse industries, I bring battle-tested insights to the dev community. Let's code the future together.
 
 👯 I am a contributor to Open Source projects for more than a decade and contributed/contributing to projects 
  - [k3d](https://k3d.io)
