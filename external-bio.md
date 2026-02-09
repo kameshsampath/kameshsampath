@@ -1,6 +1,8 @@
-Kamesh Sampath is a Developer Advocate at Snowflake, author, and long-time open-source contributor with 25+ years in enterprise software. He works across AI and data engineering with developer communities, helping practitioners turn modern data platforms into systems that hold up in production.
+Kamesh Sampath is a Developer Advocate at Snowflake, author, and long-time open-source contributor with 25+ years in enterprise software. He works across data engineering and AI with developer communities, helping practitioners turn modern data platforms into systems that hold up in production.
 
 Through talks, writing, and hands-on demos, Kamesh makes cloud, data, and AI topics easier to understand and apply—grounded in real-world constraints. His sessions mix deep technical detail with practical patterns that developers and data teams can apply right away.
+
+Lately, he’s been speaking about Apache NiFi (Snowflake Openflow), AI (Snowflake Cortex), and PostgreSQL.
 
 He believes technology becomes powerful when it is shared, taught, and built together.
 

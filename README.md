@@ -6,6 +6,8 @@ Developer Advocate at [Snowflake](https://snowflake.com). I write, speak, and bu
 
 I’ve spent 25+ years in enterprise software. These days I help developers and platform teams ship systems that are boring in the best way: reliable, observable, and easy to operate.
 
+On the Snowflake data platform, I focus on **data engineering** and **AI**. Lately I’ve been talking a lot about **Apache NiFi (Snowflake Openflow)**, AI (**Snowflake Cortex**), and **PostgreSQL**.
+
 ### Open source
 
 I contribute to open source in the Kubernetes/cloud-native ecosystem, including:
@@ -22,6 +24,8 @@ I contribute to open source in the Kubernetes/cloud-native ecosystem, including:
 - [Istio](https://istio.io) (service mesh)
 - [Knative](https://knative.dev) (serverless on Kubernetes)
 - [Snowflake](https://snowflake.com) (data platform)
+- Apache NiFi (Snowflake Openflow)
+- PostgreSQL
 - [Tekton](https://tekton.dev/) (CI/CD pipelines)
 
 ### Writing
