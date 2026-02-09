@@ -1,6 +1,6 @@
 ### Kamesh Sampath
 
-![Kamesh Sampath](Headshot_Portrait.jpg)
+![Kamesh Sampath](Headshot_Landscape.jpg)
 
 Developer Advocate at [Snowflake](https://snowflake.com). I write, speak, and build things—mostly around cloud-native and data.
 
